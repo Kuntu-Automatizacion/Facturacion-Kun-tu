@@ -1,0 +1,14 @@
+title: Facturación Kun-tu
+description: App pública de facturación, presupuestos y control financiero Kun-tu
+theme: minima
+plugins:
+  - jekyll-feed
+
+# GitHub Pages
+baseurl: "/Facturacion-Kun-tu"
+url: "https://kuntu-automatizacion.github.io"
+
+# No publicar archivos internos de GitHub Actions
+exclude:
+  - .github/
+  - README.md
