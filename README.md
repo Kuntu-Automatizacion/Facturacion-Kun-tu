@@ -17,3 +17,5 @@ https://kuntu-automatizacion.github.io/Facturacion-Kun-tu/
 ## Seguridad
 
 No subas archivos `.json`, PDFs de facturas, Excels, datos fiscales o backups reales a este repositorio público.
+
+Última actualización: app pública limpia preparada para Pages.
